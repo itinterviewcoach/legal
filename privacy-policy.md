@@ -71,7 +71,7 @@ We use the following sub-processors:
 | **Mistral AI** | France (EU) | LLM inference (fallback) | DPA accepted |
 | **Microsoft Azure** | USA / EU | Hosting, database | Microsoft Online Services Terms (includes DPA) |
 | **Telegram** | UAE | Message delivery platform | Telegram Privacy Policy |
-| **LemonSqueezy** | USA | Payment processing (MoR) | DPA included in ToS |
+| **Paddle** | United Kingdom | Payment processing (MoR) | DPA included in ToS |
 | **Boosty** | Russia | Payment processing (RU segment) | Boosty Privacy Policy |
 
 We do not sell or share data with third parties for marketing purposes.
@@ -115,10 +115,9 @@ For material changes, we will notify users via the bot at least 7 days before th
 
 ## 10. Contact
 
-**Aleksandr Ni** (Individual Entrepreneur, Georgia, IN 300455)
+**Aleksandr Nifontov** (Individual Entrepreneur, Georgia, IN 300455148)
 Email: **itinterviewcoach@outlook.com**
 EU Representative: **to be appointed**
-
 
 ---
 ---
@@ -188,7 +187,7 @@ EU Representative: **to be appointed**
 | **Mistral AI** | Франция (ЕС) | LLM-обработка (резервная) | DPA акцептован |
 | **Microsoft Azure** | США / ЕС | Хостинг, база данных | Microsoft Online Services Terms (включает DPA) |
 | **Telegram** | ОАЭ | Платформа доставки сообщений | Telegram Privacy Policy |
-| **LemonSqueezy** | США | Приём платежей (MoR) | DPA включён в ToS |
+| **Paddle** | Великобритания | Приём платежей (MoR) | DPA включён в ToS |
 | **Boosty** | Россия | Приём платежей (RU-сегмент) | Boosty Privacy Policy |
 
 Данные не продаются и не передаются третьим лицам в маркетинговых целях.
@@ -232,6 +231,10 @@ EU Representative: **to be appointed**
 
 ## 10. Контакты
 
-**Aleksandr Ni** (ИП, Грузия, ИН 300455)
+**Aleksandr Nifontov** (ИП, Грузия, ИН 300455148)
 Email: **itinterviewcoach@outlook.com**
 Представитель в ЕС: **to be appointed**
+
+---
+---
+

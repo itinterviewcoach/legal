@@ -1,11 +1,10 @@
 # Условия использования / Terms of Service
 
 **IT Interview Coach**
-Дата вступления в силу / Effective date: 2026-04-15
-Последнее обновление / Last updated: 2026-04-15
+Effective date / Дата вступления в силу : 2026-04-15
+Last updated / Последнее обновление : 2026-04-15
 
 ---
-
 # ENGLISH VERSION
 
 ## 1. Parties and Acceptance
@@ -47,7 +46,7 @@ Current plans, pricing, and limits are displayed in the bot via `/tariffs`.
 **General terms:**
 - Subscriptions are billed monthly and renew automatically until cancelled
 - New users receive a **7-day free trial** (Basic plan) without payment
-- Payments are processed via LemonSqueezy (cards, international) and Boosty (RU segment)
+- Payments are processed via Paddle (cards, international) and Boosty (RU segment)
 - Price is fixed at the time of subscription; price changes are notified 14 days in advance
 
 **Plan limits:**
@@ -184,7 +183,7 @@ IT Interview Coach — это Telegram-бот, предоставляющий и
 **Общие условия:**
 - Подписка оплачивается ежемесячно и продлевается автоматически до отмены
 - Новому пользователю предоставляется **пробный период 7 дней** (тариф Basic) без оплаты
-- Оплата принимается через LemonSqueezy (карты, international) и Boosty (RU-сегмент)
+- Оплата принимается через Paddle (карты, international) и Boosty (RU-сегмент)
 - Цена фиксируется в момент оформления подписки; об изменении цены мы уведомляем за 14 дней
 
 **Ограничения тарифов:**
