@@ -1,4 +1,4 @@
-# Условия использования / Terms of Service
+# Terms of Service / Условия использования
 
 **IT Interview Coach**
 Effective date / Дата вступления в силу : 2026-04-15
