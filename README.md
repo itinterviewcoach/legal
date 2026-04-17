@@ -2,7 +2,6 @@
 IT Interview Coach — Legal Documents
 
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
