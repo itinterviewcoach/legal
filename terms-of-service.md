@@ -1,10 +1,11 @@
-# Terms of Service / Условия использования
+# Условия использования / Terms of Service
 
 **IT Interview Coach**
-Effective date / Дата вступления в силу : 2026-04-15
-Last updated / Последнее обновление : 2026-04-15
+Дата вступления в силу / Effective date: 2026-04-29
+Последнее обновление / Last updated: 2026-04-29
 
 ---
+
 # ENGLISH VERSION
 
 ## 1. Parties and Acceptance
@@ -26,7 +27,7 @@ IT Interview Coach is a Telegram bot providing AI-powered tools for:
 - Professional experience deep-dives based on CV positions
 - CV analysis with ATS scoring and recommendations
 - Topic-based technical preparation
-- LinkedIn profile auditing (Premium and Team plans)
+- LinkedIn profile auditing (Premium plan)
 - Live coding practice tasks
 
 The Service uses third-party large language models (LLMs) to generate content.
@@ -46,8 +47,8 @@ Current plans, pricing, and limits are displayed in the bot via `/tariffs`.
 **General terms:**
 - Subscriptions are billed monthly and renew automatically until cancelled
 - New users receive a **7-day free trial** (Basic plan) without payment
-- Payments are processed via Paddle (cards, international) and Boosty (RU segment)
-- Price is fixed at the time of subscription; price changes are notified 14 days in advance
+- Payments are processed via Telegram Stars (⭐) — Telegram's native payment system, available to all users worldwide
+- The Stars price is fixed at the time of subscription; price changes are notified 14 days in advance
 
 **Plan limits:**
 - Session, question, and feature limits vary by plan and are described in the bot
@@ -93,7 +94,7 @@ To the maximum extent permitted by law, the Operator's total liability to any Us
 You may not:
 - Use the Service for any unlawful purpose
 - Circumvent technical limitations (rate limits, plan quotas)
-- Share account access with third parties (Team plan has separate terms)
+- Share account access with third parties
 - Create multiple accounts to bypass limits
 - Use bots or automated tools to interact with the Service
 - Attempt to extract, reproduce, or reverse-engineer AI prompts or Service logic
@@ -163,7 +164,7 @@ IT Interview Coach — это Telegram-бот, предоставляющий и
 - разбора профессионального опыта по позициям из резюме
 - анализа резюме (CV) с ATS-скорингом и рекомендациями
 - подготовки по выбранным техническим темам
-- аудита LinkedIn-профиля (тарифы Premium и Team)
+- аудита LinkedIn-профиля (тариф Premium)
 - практики задач в формате live coding
 
 Сервис использует языковые модели (LLM) третьих сторон для генерации контента.
@@ -183,8 +184,8 @@ IT Interview Coach — это Telegram-бот, предоставляющий и
 **Общие условия:**
 - Подписка оплачивается ежемесячно и продлевается автоматически до отмены
 - Новому пользователю предоставляется **пробный период 7 дней** (тариф Basic) без оплаты
-- Оплата принимается через Paddle (карты, international) и Boosty (RU-сегмент)
-- Цена фиксируется в момент оформления подписки; об изменении цены мы уведомляем за 14 дней
+- Оплата принимается через Telegram Stars (⭐) — встроенная платёжная система Telegram, доступна всем пользователям
+- Цена в Stars фиксируется в момент оформления подписки; об изменении цены мы уведомляем за 14 дней
 
 **Ограничения тарифов:**
 - Лимиты сессий, вопросов и функций зависят от тарифа и описаны в боте
@@ -230,7 +231,7 @@ IT Interview Coach — это Telegram-бот, предоставляющий и
 Запрещается:
 - Использовать Сервис для любых незаконных целей
 - Обходить технические ограничения (rate limits, тарифные лимиты)
-- Передавать доступ к аккаунту третьим лицам (тариф Team — отдельные условия)
+- Передавать доступ к аккаунту третьим лицам
 - Создавать множество аккаунтов для обхода лимитов
 - Использовать ботов или автоматизированные инструменты для взаимодействия с Сервисом
 - Пытаться извлечь, воспроизвести или реверс-инжинировать AI-промпты или логику Сервиса
@@ -275,3 +276,6 @@ IT Interview Coach — это Telegram-бот, предоставляющий и
 
 **Aleksandr Nifontov** (ИП, Грузия, ИН 300455148)
 Email: **itinterviewcoach@outlook.com**
+
+---
+---

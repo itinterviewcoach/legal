@@ -1,8 +1,8 @@
 # Public Offer Agreement / Договор публичной оферты
 
 **IT Interview Coach**
-Publication date / Дата публикации: 2026-04-15
-Last updated / Последнее обновление: 2026-04-15
+Publication date / Дата публикации: 2026-04-29
+Last updated / Последнее обновление: 2026-04-29
 
 ---
 
@@ -59,21 +59,19 @@ This Offer is public and contains all material terms of the service agreement.
 | Plan | Price | Period |
 |---|---|---|
 | Free | Free | Indefinite |
-| Basic | €10 | 1 month |
-| Premium | €20 | 1 month |
-| Team | €15 / person (min. 4) | 1 month |
+| Basic | 500 ⭐ | 1 month |
+| Premium | 1000 ⭐ | 1 month |
 
 The Service Provider may change pricing with 14 days' notice via the bot.
 
 4.2. Payment currency is determined by the payment provider:
-- **Paddle** — Euro (EUR), international cards
-- **Boosty** — Russian Rubles (RUB), Russian cards and payment systems
+- **Telegram Stars (⭐)** — available to all Telegram users worldwide via App Store / Google Pay
 
 4.3. Subscriptions renew **automatically** each billing period until cancelled.
 
 4.4. If payment fails, access to paid features is suspended and the Customer is notified via the bot.
 
-4.5. The Service Provider pays tax under the Small Business regime (1%) under Georgian law. VAT/sales tax is not charged by the Service Provider. For payments via Paddle, Paddle acts as Merchant of Record and bears full responsibility for applicable tax collection and remittance (EU VAT, etc.).
+4.5. The Service Provider pays tax under the Small Business regime (1%) under Georgian law. VAT/sales tax is not charged by the Service Provider. Payments are processed via Telegram Stars — Telegram's native payment system. Telegram acts as the payment infrastructure provider. The Service Provider is solely responsible for tax reporting on received income under Georgian law.
 
 ---
 
@@ -228,21 +226,19 @@ Support bot: **@ITInterviewCoachSupport_bot**
 | Тариф | Стоимость | Период |
 |---|---|---|
 | Free | Бесплатно | Бессрочно |
-| Basic | 10 € | 1 месяц |
-| Premium | 20 € | 1 месяц |
-| Team | 15 € / участник (мин. 4) | 1 месяц |
+| Basic | 500 ⭐ | 1 месяц |
+| Premium | 1000 ⭐ | 1 месяц |
 
 Исполнитель вправе изменить стоимость тарифов, уведомив Заказчика через бот за 14 дней.
 
 4.2. Оплата производится в валюте, определённой платёжным провайдером:
-- **Paddle** — евро (EUR), международные карты
-- **Boosty** — российские рубли (RUB), карты РФ и российские платёжные системы
+- **Telegram Stars (⭐)** — доступны всем пользователям Telegram через App Store / Google Pay
 
 4.3. Подписка продлевается **автоматически** каждый расчётный период до момента отмены Заказчиком.
 
 4.4. При неуспешном списании доступ к платным функциям приостанавливается. Заказчик получает уведомление через бот.
 
-4.5. Исполнитель является плательщиком налога в режиме малого бизнеса (1%) в соответствии с законодательством Грузии. НДС/VAT на оказываемые услуги Исполнителем не взимается. Применительно к платежам через Paddle, Paddle действует как Merchant of Record и самостоятельно несёт ответственность за уплату применимых налогов (EU VAT и др.).
+4.5. Исполнитель является плательщиком налога в режиме малого бизнеса (1%) в соответствии с законодательством Грузии. НДС/VAT на оказываемые услуги Исполнителем не взимается. Платежи принимаются через Telegram Stars — встроенную платёжную систему Telegram. Исполнитель самостоятельно несёт ответственность за налоговую отчётность по полученным доходам в соответствии с законодательством Грузии.
 
 ---
 

@@ -1,7 +1,7 @@
 # Pricing — IT Interview Coach
 
 **IT Interview Coach**
-Last updated: 2026-04-15
+Last updated: 2026-04-29
 
 ---
 
@@ -26,9 +26,9 @@ All plans give access to the IT Interview Coach Telegram bot. Subscriptions are 
 ---
 
 ### 📘 Basic
-**€10 / month**
+**500 ⭐ / month**
 
-*7-day free trial for new users*
+*7-day free trial for new users — no Stars required*
 
 - 20 interview practice sessions per month
 - 10 questions per session
@@ -40,7 +40,7 @@ All plans give access to the IT Interview Coach Telegram bot. Subscriptions are 
 ---
 
 ### 🚀 Premium
-**€20 / month**
+**1000 ⭐ / month**
 
 - Unlimited interview practice sessions
 - 15 questions per session
@@ -51,21 +51,12 @@ All plans give access to the IT Interview Coach Telegram bot. Subscriptions are 
 - ✅ LinkedIn metrics tracking
 - ✅ Weekly LinkedIn reminders
 
----
-
-### 👥 Team
-**€15 / person per month** *(minimum 4 people)*
-
-Same features as Premium, for teams.
-Contact us at itinterviewcoach@outlook.com for team setup.
 
 ---
 
 ## Payment
 
-Payments are processed securely via **Paddle** (Merchant of Record). We accept all major credit and debit cards, Apple Pay, and Google Pay.
-
-Paddle handles VAT/tax collection for all jurisdictions — you are charged the correct amount for your country automatically.
+Payments are processed via **Telegram Stars (⭐)** — Telegram's native payment system. Stars can be purchased directly in Telegram via App Store, Google Play, or in-app balance top-up. Available to all Telegram users worldwide including Russia.
 
 ## Free Trial
 
@@ -104,9 +95,9 @@ Full details: [Terms of Service](https://itinterviewcoach.github.io/legal/terms-
 ---
 
 ### 📘 Basic
-**€10 / месяц**
+**500 ⭐ / месяц**
 
-*7 дней бесплатного пробного периода для новых пользователей*
+*7 дней бесплатного пробного периода — Stars не нужны*
 
 - 20 тренировочных сессий в месяц
 - 10 вопросов за сессию
@@ -118,7 +109,7 @@ Full details: [Terms of Service](https://itinterviewcoach.github.io/legal/terms-
 ---
 
 ### 🚀 Premium
-**€20 / месяц**
+**1000 ⭐ / месяц**
 
 - Неограниченные тренировочные сессии
 - 15 вопросов за сессию
@@ -129,21 +120,12 @@ Full details: [Terms of Service](https://itinterviewcoach.github.io/legal/terms-
 - ✅ Отслеживание метрик LinkedIn
 - ✅ Еженедельные напоминания по LinkedIn
 
----
-
-### 👥 Team
-**€15 / человек в месяц** *(минимум 4 человека)*
-
-Те же функции что и Premium, для команд.
-Для подключения команды напишите на itinterviewcoach@outlook.com
 
 ---
 
 ## Оплата
 
-Платежи обрабатываются через **Paddle** (Merchant of Record). Принимаются все основные кредитные и дебетовые карты, Apple Pay и Google Pay.
-
-Paddle автоматически рассчитывает и удерживает НДС в соответствии с законодательством страны покупателя.
+Платежи принимаются через **Telegram Stars (⭐)** — встроенную платёжную систему Telegram. Stars покупаются прямо в Telegram через App Store, Google Play или пополнение баланса. Доступно всем пользователям Telegram, включая Россию.
 
 ## Пробный период
 

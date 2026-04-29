@@ -1,8 +1,8 @@
 # Политика конфиденциальности / Privacy Policy
 
 **IT Interview Coach**
-Effective date / Дата вступления в силу : 2026-04-15
-Last updated / Последнее обновление : 2026-04-15
+Дата вступления в силу / Effective date: 2026-04-29
+Последнее обновление / Last updated: 2026-04-29
 
 ---
 
@@ -71,8 +71,7 @@ We use the following sub-processors:
 | **Mistral AI** | France (EU) | LLM inference (fallback) | DPA accepted |
 | **Microsoft Azure** | USA / EU | Hosting, database | Microsoft Online Services Terms (includes DPA) |
 | **Telegram** | UAE | Message delivery platform | Telegram Privacy Policy |
-| **Paddle** | United Kingdom | Payment processing (MoR) | DPA included in ToS |
-| **Boosty** | Russia | Payment processing (RU segment) | Boosty Privacy Policy |
+| **Telegram** (Stars payments) | UAE | Payment processing via Telegram Stars | Telegram Privacy Policy |
 
 We do not sell or share data with third parties for marketing purposes.
 
@@ -187,8 +186,7 @@ EU Representative: **to be appointed**
 | **Mistral AI** | Франция (ЕС) | LLM-обработка (резервная) | DPA акцептован |
 | **Microsoft Azure** | США / ЕС | Хостинг, база данных | Microsoft Online Services Terms (включает DPA) |
 | **Telegram** | ОАЭ | Платформа доставки сообщений | Telegram Privacy Policy |
-| **Paddle** | Великобритания | Приём платежей (MoR) | DPA включён в ToS |
-| **Boosty** | Россия | Приём платежей (RU-сегмент) | Boosty Privacy Policy |
+| **Telegram** (Stars payments) | ОАЭ | Приём платежей через Telegram Stars | Telegram Privacy Policy |
 
 Данные не продаются и не передаются третьим лицам в маркетинговых целях.
 
@@ -237,4 +235,3 @@ Email: **itinterviewcoach@outlook.com**
 
 ---
 ---
-
