@@ -1,8 +1,8 @@
 # Политика конфиденциальности / Privacy Policy
 
 **IT Interview Coach**
-Дата вступления в силу / Effective date: 2026-04-29
-Последнее обновление / Last updated: 2026-04-29
+Дата вступления в силу / Effective date: 2026-04-15
+Последнее обновление / Last updated: 2026-04-15
 
 ---
 
@@ -69,6 +69,7 @@ We use the following sub-processors:
 |---|---|---|---|
 | **Groq, Inc.** | USA | LLM inference (primary) | DPA accepted |
 | **Mistral AI** | France (EU) | LLM inference (fallback) | DPA accepted |
+| **OpenRouter** | USA | LLM inference (additional fallback, routes to third-party models) | [OpenRouter Privacy Policy](https://openrouter.ai/privacy) |
 | **Microsoft Azure** | USA / EU | Hosting, database | Microsoft Online Services Terms (includes DPA) |
 | **Telegram** | UAE | Message delivery platform | Telegram Privacy Policy |
 | **Telegram** (Stars payments) | UAE | Payment processing via Telegram Stars | Telegram Privacy Policy |
@@ -184,6 +185,7 @@ EU Representative: **to be appointed**
 |---|---|---|---|
 | **Groq, Inc.** | США | LLM-обработка (генерация ответов) | DPA акцептован |
 | **Mistral AI** | Франция (ЕС) | LLM-обработка (резервная) | DPA акцептован |
+| **OpenRouter** | США | LLM-обработка (дополнительный fallback, маршрутизация к моделям третьих сторон) | [Политика конфиденциальности OpenRouter](https://openrouter.ai/privacy) |
 | **Microsoft Azure** | США / ЕС | Хостинг, база данных | Microsoft Online Services Terms (включает DPA) |
 | **Telegram** | ОАЭ | Платформа доставки сообщений | Telegram Privacy Policy |
 | **Telegram** (Stars payments) | ОАЭ | Приём платежей через Telegram Stars | Telegram Privacy Policy |
